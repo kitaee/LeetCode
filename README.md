@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/kitaee/LeetCode/tree/master/0079-word-search) |
+| [0128-longest-consecutive-sequence](https://github.com/kitaee/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kitaee/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 ## String
 |  |
@@ -32,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kitaee/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/kitaee/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/kitaee/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

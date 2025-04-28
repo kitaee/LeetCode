@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kitaee/LeetCode/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/kitaee/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/kitaee/LeetCode/tree/master/0079-word-search) |
 ## Backtracking
 |  |
@@ -44,5 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kitaee/LeetCode/tree/master/0067-add-binary) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/kitaee/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/kitaee/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/kitaee/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->

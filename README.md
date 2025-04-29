@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/kitaee/LeetCode/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/kitaee/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kitaee/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0200-number-of-islands](https://github.com/kitaee/LeetCode/tree/master/0200-number-of-islands) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kitaee/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 ## String
 |  |
@@ -23,10 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/kitaee/LeetCode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/kitaee/LeetCode/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
 | ------- |
 | [0079-word-search](https://github.com/kitaee/LeetCode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/kitaee/LeetCode/tree/master/0200-number-of-islands) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kitaee/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/kitaee/LeetCode/tree/master/0200-number-of-islands) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -61,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kitaee/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kitaee/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
